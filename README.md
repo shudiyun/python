@@ -16,3 +16,14 @@ So to run the script you need to know the directory where the images are stored 
 ``` 
 python scikit.py /path/to/img number
 ```
+
+## Jupyter
+
+The *jupyter* directory contains the jupyter notebooks that show how the implemented script work. To launch a **Jupyter** notebook is very simple:
+
+```
+cd directory/with/notebook
+jupyter notebook
+```
+
+once you send the command you weel see the notebook in the default browser !
